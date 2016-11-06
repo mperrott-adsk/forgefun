@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness", "TestHarness\TestHarness.csproj", "{16F361D0-2C8E-4964-A07E-E0CF1864DCA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{20F690D8-D243-451F-938D-B9F7541C66D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F361D0-2C8E-4964-A07E-E0CF1864DCA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F361D0-2C8E-4964-A07E-E0CF1864DCA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F361D0-2C8E-4964-A07E-E0CF1864DCA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F361D0-2C8E-4964-A07E-E0CF1864DCA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F690D8-D243-451F-938D-B9F7541C66D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F690D8-D243-451F-938D-B9F7541C66D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F690D8-D243-451F-938D-B9F7541C66D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F690D8-D243-451F-938D-B9F7541C66D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
